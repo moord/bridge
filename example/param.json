@@ -1,0 +1,4 @@
+{"manage":[{"alias":"N1","index":0},{"alias":"N2","index":1},{"alias":"CT1","index":2},{"alias":"CT2","index":3},{"alias":"W1","index":4},{"alias":"C1","index":5}],
+ "sensor":[{"alias":"N1_A","delta":10.0,"index":0},{"alias":"N2_A","delta":10.0,"index":1},{"alias":"B5_TE","delta":10.0,"index":2}],
+ "state":[{"alias":"N1","index":0},{"alias":"N2","index":1},{"alias":"CT1","index":2},{"alias":"CT2","index":3},{"alias":"W1","index":4},{"alias":"C1","index":5},{"alias":"B5","index":6}],
+ "version":1}
